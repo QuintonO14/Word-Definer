@@ -1,3 +1,3 @@
 # Word-Definer
 Word definer gives you a list of words from every visited webpage and provides definitions for all the given words
-!['Screenshots'](https://ibb.co/7QNp7Z5)
+![Screenshots](https://i.ibb.co/RN46Lsm/screenshot3.jpg)
